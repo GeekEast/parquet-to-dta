@@ -2,3 +2,5 @@
 .DS_Store
 *.parquet
 *.dta
+data/
+output/
